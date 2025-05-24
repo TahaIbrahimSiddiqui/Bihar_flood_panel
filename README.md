@@ -8,7 +8,7 @@ This repository documents a district-wise panel dataset of flood inundation even
 
 ## 📡 Data Sources
 
-- **Flood Maps**: Obtained from [NRSC](https://bhuvan-app1.nrsc.gov.in/thematic/thematic/index.php), which uses satellite imagery to map annual flood inundation. Learn more about their methodology in [this explainer]([https://bhuvan-app1.nrsc.gov.in/bhuvan_links.php#flood](https://www.nrsc.gov.in/sites/default/files/pdf/ebooks/Chap_12_FloodDisasterManagement_p1.pdf)).
+- **Flood Maps**: Obtained from [NRSC](https://bhuvan-app1.nrsc.gov.in/thematic/thematic/index.php), which uses satellite imagery to map annual flood inundation. Learn more about their methodology in [this explainer](https://www.nrsc.gov.in/sites/default/files/pdf/ebooks/Chap_12_FloodDisasterManagement_p1.pdf).
 - **District Boundaries**: Derived from the 2011 Indian Census and linked to SHRUG to facilitate integration with socioeconomic data.
 
 ## 📁 Dataset Structure

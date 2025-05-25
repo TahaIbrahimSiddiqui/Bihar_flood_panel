@@ -35,6 +35,6 @@ I’m actively looking for opportunities to collaborate and explore this dataset
 
 ## 📜 License & Access
 
-The dataset is not publicly available at this time. Access can be granted upon request for academic or collaborative purposes. Please ensure proper attribution of original sources (NRSC, SHRUG) when using or referencing the data.
+The dataset is not publicly available at this time. Access can be granted upon request for collaborative purposes. Please ensure proper attribution of original sources (NRSC, SHRUG) when using or referencing the data.
 
 ---
